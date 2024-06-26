@@ -2,10 +2,10 @@
 **This project applies data mining techniques to address a real-world problem. The real-world problem at hand is the prediction of obesity levels of individuals based on variables such as lifestyle and physical factors. The code for this is available in the Obesity Prediction Code.R file.**
 
 ## Dataset Identification  
-Chosen Dataset: Estimation of Obesity Levels Based on Eating Habits and Physical Condition via UCI Machine Learning Repository, consisting of 17 attributes and 2111 records. 
+Chosen Dataset: Estimation of Obesity Levels Based on Eating Habits and Physical Condition via UCI Machine Learning Repository, consisting of 17 attributes and 2111 records.  
 
 ## Data Pre-Processing  
-Data pre-processing involved:
+Data pre-processing involved:  
 •	Rounding values to remove leading digits.
 •	Feature encoding (one-hot encoding. dummy encoding and label encoding).
 
