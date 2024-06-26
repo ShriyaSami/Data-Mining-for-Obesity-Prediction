@@ -6,12 +6,12 @@ Chosen Dataset: Estimation of Obesity Levels Based on Eating Habits and Physical
 
 ## Data Pre-Processing  
 Data pre-processing involved:  
-•	Rounding values to remove leading digits.
+•	Rounding values to remove leading digits.  
 •	Feature encoding (one-hot encoding. dummy encoding and label encoding).
 
 ## Machine Learning 
-- **Data Pre-processing:** feature encoding (one-hot encoding, dummy encoding and label encoding), rounding values to remove leading digits.
-- **Machine Learning Models Used:** K-Nearest Neighbour (KNN), Decision Tree, Random Forest. 
+- **Data Pre-processing:** feature encoding (one-hot encoding, dummy encoding and label encoding), rounding values to remove leading digits.  
+- **Machine Learning Models Used:** K-Nearest Neighbour (KNN), Decision Tree, Random Forest.  
 - **Model Comparison:**
 
 | Model | Accuracy | Specificity | Sensitivity |
